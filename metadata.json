@@ -1,0 +1,5 @@
+{
+  "name": "AI Quota Tracker",
+  "description": "A comprehensive dashboard to monitor and report remaining AI model quotas across multiple accounts and agents.",
+  "requestFramePermissions": []
+}
